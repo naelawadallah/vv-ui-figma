@@ -1,0 +1,257 @@
+.summaryMobileChild {
+  position: absolute;
+  top: -16px;
+  left: -239px;
+  width: 1063.7px;
+  height: 923.9px;
+  object-fit: contain;
+  mix-blend-mode: screen;
+}
+.summaryMobileItem {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 183px);
+  width: 366px;
+  height: 140px;
+  object-fit: cover;
+}
+.primavera {
+  position: absolute;
+  top: 64px;
+  left: 421px;
+  font-size: var(--font-size-47xl);
+  color: transparent;
+  text-align: left;
+  -webkit-text-stroke: 0.5px rgba(255, 255, 255, 0.36);
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.nvf2a1lu01011Icon,
+.vectorIcon {
+  position: absolute;
+  object-fit: cover;
+}
+.vectorIcon {
+  height: 3.75%;
+  top: 3.13%;
+  bottom: 93.13%;
+  left: calc(50% - 183px);
+  max-height: 100%;
+  width: 69.8px;
+}
+.nvf2a1lu01011Icon {
+  top: calc(50% - 94px);
+  left: calc(50% - 177px);
+  width: 329px;
+  height: 219px;
+}
+.accessories,
+.colour,
+.saddle {
+  position: absolute;
+  top: 615px;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.saddle {
+  left: calc(50% - 83px);
+}
+.accessories,
+.colour {
+  left: 48px;
+}
+.accessories {
+  left: 202px;
+  font-weight: 600;
+}
+.summaryMobileInner {
+  position: absolute;
+  top: calc(50% - 160px);
+  left: 0;
+  width: 60px;
+  height: 320px;
+  object-fit: contain;
+}
+.rectangleDiv {
+  position: absolute;
+  top: calc(50% + 28px);
+  left: 54px;
+  border-radius: var(--br-61xl);
+  background-color: var(--color-gray-200);
+  width: 55px;
+  height: 2px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.start {
+  margin: 0;
+}
+.lightsSwitch,
+.openBoot,
+.openStand,
+.startEngine {
+  position: absolute;
+  top: 233px;
+  left: 7px;
+  font-size: var(--font-size-5xs);
+  line-height: 9px;
+  font-weight: 500;
+  display: inline-block;
+  width: 39px;
+  height: 16px;
+}
+.lightsSwitch,
+.openBoot,
+.openStand {
+  top: 298px;
+  height: 17px;
+}
+.openBoot,
+.openStand {
+  top: 363px;
+  left: 11px;
+  width: 31px;
+}
+.openStand {
+  top: 428px;
+  left: 10px;
+  width: 33px;
+}
+.vectorIcon1,
+.vectorIcon2,
+.vectorIcon3,
+.vectorIcon4 {
+  position: absolute;
+  top: 261px;
+  left: 10px;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.vectorIcon2,
+.vectorIcon3,
+.vectorIcon4 {
+  top: 195px;
+}
+.vectorIcon3,
+.vectorIcon4 {
+  top: 391px;
+  height: 34px;
+}
+.vectorIcon4 {
+  top: 326px;
+}
+.layer1Icon {
+  top: 465px;
+  left: calc(50% - 26px);
+  width: 52.4px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.div,
+.layer1Icon,
+.total {
+  position: absolute;
+}
+.div {
+  top: 566px;
+  left: 281px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.total {
+  top: 550px;
+  left: 310px;
+  font-family: var(--font-arboria);
+  text-align: right;
+}
+.colour1 {
+  top: 529px;
+  font-weight: 500;
+}
+.colour1,
+.peachy,
+.saddle1 {
+  position: absolute;
+  left: 75px;
+  font-family: var(--font-arboria);
+  text-align: left;
+}
+.saddle1 {
+  top: 570px;
+  font-weight: 500;
+}
+.peachy {
+  top: 543px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gainsboro-100);
+}
+.accessories1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.flyscreen,
+.frontRack,
+.rearRack {
+  position: absolute;
+  top: 14px;
+  left: 0;
+}
+.flyscreen,
+.rearRack {
+  top: 27px;
+}
+.flyscreen {
+  top: 40px;
+}
+.accessoriesParent,
+.luxuryBrown {
+  position: absolute;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-arboria);
+  color: var(--color-gainsboro-100);
+  text-align: left;
+}
+.accessoriesParent {
+  top: 529px;
+  left: 178px;
+  width: 66px;
+  height: 52px;
+}
+.luxuryBrown {
+  top: 585px;
+  left: 75px;
+}
+.summary {
+  position: absolute;
+  top: 615px;
+  left: 312px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+.summaryMobileChild1 {
+  position: absolute;
+  top: 633px;
+  left: 300px;
+  border-radius: var(--br-61xl);
+  background-color: var(--color-white);
+  width: 77px;
+  height: 3px;
+}
+.summaryMobile {
+  position: relative;
+  background-color: var(--color-coral);
+  width: 100%;
+  height: 640px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Helvetica:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arboria:wght@400;500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-roboto: Roboto;
+  --font-helvetica: Helvetica;
+  --font-arboria: Arboria;
+
+  /* font sizes */
+  --font-size-3xs: 10px;
+  --font-size-203xl: 222px;
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-5xs: 8px;
+  --font-size-xl: 20px;
+  --font-size-47xl: 66px;
+  --font-size-4xs: 9px;
+  --font-size-101xl: 120px;
+
+  /* Colors */
+  --color-coral: #e5663a;
+  --color-gray-300: #121b2e;
+  --color-gray-400: #1a1a1a;
+  --color-gray-500: rgba(255, 255, 255, 0.66);
+  --color-gray-100: rgba(255, 255, 255, 0.88);
+  --color-gray-200: rgba(255, 255, 255, 0.48);
+  --color-white: #fff;
+  --color-gainsboro-100: #e8e8e8;
+  --color-gainsboro-200: #dcd7cf;
+  --color-darkgray-100: #9bacb3;
+  --color-chocolate: #d54f1a;
+  --color-mediumaquamarine: #9de0c1;
+  --color-paleturquoise: #b3e4cd;
+  --color-darkslategray-100: #484848;
+  --color-darkslategray-200: rgba(72, 72, 72, 0.48);
+  --color-darkslategray-300: rgba(72, 72, 72, 0.6);
+  --color-darkslategray-400: rgba(72, 72, 72, 0.12);
+
+  /* Border radiuses */
+  --br-61xl: 80px;
+}

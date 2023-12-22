@@ -1,0 +1,34 @@
+.loading {
+  position: absolute;
+  top: 521px;
+  left: 390px;
+  font-weight: 500;
+  text-shadow: 1px 0 0#484848, 0 1px 0#484848, -1px 0 0#484848, 0-1px 0#484848;
+}
+.loadIcon,
+.vectorIcon {
+  position: absolute;
+  object-fit: cover;
+}
+.loadIcon {
+  top: 531px;
+  left: 393px;
+  width: 74px;
+  height: 29px;
+}
+.vectorIcon {
+  top: calc(50% - 64px);
+  left: calc(50% - 406px);
+  width: 788.3px;
+  height: 125.4px;
+}
+.preloaderTablet {
+  position: relative;
+  background-color: var(--color-paleturquoise);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 40px;
+  font-family: var(--font-inter);
+}

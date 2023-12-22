@@ -1,0 +1,266 @@
+.summaryDesktopChild {
+  position: absolute;
+  top: -44px;
+  left: 176px;
+  width: 1505.5px;
+  height: 1307.6px;
+  object-fit: contain;
+  mix-blend-mode: screen;
+}
+.nvf2a1lu01011Icon,
+.summaryDesktopItem {
+  position: absolute;
+  width: 800px;
+  object-fit: cover;
+}
+.nvf2a1lu01011Icon {
+  top: calc(50% - 340px);
+  left: calc(50% - 408px);
+  height: 533.3px;
+}
+.summaryDesktopItem {
+  bottom: 0;
+  left: calc(50% - 400px);
+  height: 220px;
+}
+.primavera {
+  position: absolute;
+  top: 215px;
+  left: 1394px;
+  font-size: var(--font-size-203xl);
+  color: transparent;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.36);
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.vectorIcon {
+  position: absolute;
+  height: 4%;
+  top: 4.44%;
+  bottom: 91.56%;
+  left: calc(50% - 660px);
+  max-height: 100%;
+  width: 104.7px;
+  object-fit: cover;
+}
+.summaryDesktopInner {
+  position: absolute;
+  top: calc(50% - 240px);
+  left: 0;
+  width: 120px;
+  height: 480px;
+  object-fit: contain;
+}
+.thisMiniRevolutionOn {
+  margin: 0;
+}
+.thisMiniRevolutionOnContainer {
+  position: absolute;
+  top: 198px;
+  left: 1181px;
+  line-height: 22px;
+  font-weight: 300;
+  font-family: var(--font-helvetica);
+  color: var(--color-gray-100);
+  text-align: right;
+  display: inline-block;
+  width: 195px;
+  height: 122px;
+}
+.saddle {
+  left: calc(50% - 116px);
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.accessories,
+.colour,
+.saddle,
+.summary {
+  position: absolute;
+  top: 871px;
+  letter-spacing: -0.02em;
+  text-align: center;
+}
+.colour {
+  left: 498px;
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.accessories,
+.summary {
+  font-weight: 600;
+}
+.accessories {
+  left: 715px;
+  color: var(--color-gray-200);
+}
+.summary {
+  left: 867px;
+}
+.rectangleDiv {
+  top: 892px;
+  left: 859px;
+  border-radius: var(--br-61xl);
+  background-color: var(--color-white);
+  width: 90px;
+  height: 4px;
+}
+.colour1,
+.div,
+.rectangleDiv {
+  position: absolute;
+}
+.div {
+  top: 763px;
+  left: 869px;
+  font-size: 21px;
+  font-weight: 600;
+  text-align: center;
+}
+.colour1 {
+  top: 741px;
+  left: 495px;
+  font-weight: 500;
+  font-family: var(--font-arboria);
+}
+.accessories1 {
+  top: 740px;
+  left: 686px;
+  font-weight: 500;
+}
+.accessories1,
+.frontRack,
+.peachy,
+.saddle1 {
+  position: absolute;
+  font-family: var(--font-arboria);
+}
+.saddle1 {
+  top: 786px;
+  left: 495px;
+  font-weight: 500;
+}
+.frontRack,
+.peachy {
+  font-size: var(--font-size-xs);
+}
+.peachy {
+  top: 759px;
+  left: 495px;
+  color: var(--color-gainsboro-100);
+}
+.frontRack {
+  top: 758px;
+}
+.flyscreen,
+.frontRack,
+.rearRack {
+  left: 686px;
+  color: var(--color-gainsboro-100);
+}
+.rearRack {
+  position: absolute;
+  top: 772px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-arboria);
+}
+.flyscreen {
+  top: 786px;
+}
+.flyscreen,
+.luxuryBrown,
+.total {
+  position: absolute;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-arboria);
+}
+.luxuryBrown {
+  top: 803px;
+  left: 495px;
+  color: var(--color-gainsboro-100);
+}
+.total {
+  top: 748px;
+  left: 916px;
+  text-align: right;
+}
+.layer1Icon {
+  position: absolute;
+  top: 638px;
+  left: calc(50% - 31px);
+  width: 61.2px;
+  height: 28px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.lightsSwitch,
+.openBoot,
+.openStand,
+.startEngine {
+  position: absolute;
+  top: 340px;
+  left: 25px;
+  font-size: var(--font-size-3xs);
+  font-weight: 600;
+  text-align: center;
+}
+.lightsSwitch,
+.openBoot,
+.openStand {
+  top: 427px;
+  left: 22px;
+}
+.openBoot,
+.openStand {
+  top: 514px;
+  left: 29px;
+}
+.openStand {
+  top: 601px;
+  left: 27px;
+}
+.summaryDesktopChild1 {
+  position: absolute;
+  top: calc(50% + 55px);
+  left: 110px;
+  border-radius: var(--br-61xl);
+  background-color: var(--color-gray-200);
+  width: 110px;
+  height: 4px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.vectorIcon1,
+.vectorIcon2,
+.vectorIcon3,
+.vectorIcon4 {
+  position: absolute;
+  top: 374px;
+  left: 31px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+.vectorIcon2,
+.vectorIcon3,
+.vectorIcon4 {
+  top: 287px;
+}
+.vectorIcon3,
+.vectorIcon4 {
+  top: 548px;
+}
+.vectorIcon4 {
+  top: 461px;
+}
+.summaryDesktop {
+  position: relative;
+  background-color: var(--color-coral);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

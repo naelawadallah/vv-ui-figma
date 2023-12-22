@@ -1,0 +1,280 @@
+.accessoriesMobileChild {
+  position: absolute;
+  top: -16px;
+  left: -239px;
+  width: 1063.7px;
+  height: 923.9px;
+  object-fit: contain;
+  mix-blend-mode: screen;
+}
+.accessoriesMobileItem {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 183px);
+  width: 366px;
+  height: 140px;
+  object-fit: cover;
+}
+.primavera {
+  position: absolute;
+  top: 64px;
+  left: 421px;
+  font-size: var(--font-size-47xl);
+  color: transparent;
+  text-align: left;
+  -webkit-text-stroke: 0.5px rgba(255, 255, 255, 0.36);
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.vectorIcon {
+  position: absolute;
+  height: 3.75%;
+  top: 3.13%;
+  bottom: 93.13%;
+  left: calc(50% - 183px);
+  max-height: 100%;
+  width: 69.8px;
+  object-fit: cover;
+}
+.div,
+.msrp {
+  position: absolute;
+  text-align: right;
+}
+.msrp {
+  top: 64px;
+  left: 357px;
+  letter-spacing: 0.14em;
+  line-height: 16px;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-100);
+}
+.div {
+  top: 79px;
+  left: 318px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.nvf2a1lu01011Icon {
+  position: absolute;
+  top: calc(50% - 94px);
+  left: calc(50% - 177px);
+  width: 329px;
+  height: 219px;
+  object-fit: cover;
+}
+.saddle {
+  left: calc(50% - 83px);
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.accessories,
+.colour,
+.saddle,
+.summary {
+  position: absolute;
+  top: 615px;
+  font-size: var(--font-size-xs);
+  letter-spacing: -0.02em;
+}
+.colour {
+  left: 48px;
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.accessories,
+.summary {
+  left: 202px;
+  font-weight: 600;
+}
+.summary {
+  left: 311px;
+  color: var(--color-gray-200);
+}
+.accessoriesMobileInner {
+  position: absolute;
+  top: calc(50% - 160px);
+  left: 0;
+  width: 60px;
+  height: 320px;
+  object-fit: contain;
+}
+.rectangleDiv {
+  position: absolute;
+  top: calc(50% + 28px);
+  left: 54px;
+  border-radius: var(--br-61xl);
+  background-color: var(--color-gray-200);
+  width: 55px;
+  height: 2px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.start {
+  margin: 0;
+}
+.lightsSwitch,
+.openBoot,
+.openStand,
+.startEngine {
+  position: absolute;
+  top: 233px;
+  left: 7px;
+  font-size: var(--font-size-5xs);
+  line-height: 9px;
+  font-weight: 500;
+  display: inline-block;
+  width: 39px;
+  height: 16px;
+}
+.lightsSwitch,
+.openBoot,
+.openStand {
+  top: 298px;
+  height: 17px;
+}
+.openBoot,
+.openStand {
+  top: 363px;
+  left: 11px;
+  width: 31px;
+}
+.openStand {
+  top: 428px;
+  left: 10px;
+  width: 33px;
+}
+.vectorIcon1,
+.vectorIcon2,
+.vectorIcon3,
+.vectorIcon4 {
+  position: absolute;
+  top: 261px;
+  left: 10px;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.vectorIcon2,
+.vectorIcon3,
+.vectorIcon4 {
+  top: 195px;
+}
+.vectorIcon3,
+.vectorIcon4 {
+  top: 391px;
+  height: 34px;
+}
+.vectorIcon4 {
+  top: 326px;
+}
+.bagView,
+.div1,
+.rearRack {
+  position: absolute;
+  top: 580px;
+  left: 201px;
+  font-weight: 600;
+}
+.bagView,
+.div1 {
+  left: 289px;
+}
+.div1 {
+  top: 592px;
+  left: 208px;
+  font-weight: 500;
+}
+.groupIcon {
+  position: absolute;
+  top: 526px;
+  left: 73px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+.accessoriesMobileChild1,
+.accessoriesMobileChild2,
+.accessoriesMobileChild3 {
+  position: absolute;
+  top: 526px;
+  left: 138px;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+}
+.accessoriesMobileChild2,
+.accessoriesMobileChild3 {
+  left: 202px;
+}
+.accessoriesMobileChild3 {
+  top: 524px;
+  left: 287px;
+}
+.lineDiv {
+  position: absolute;
+  top: 527.5px;
+  left: 266.5px;
+  border-right: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  width: 1px;
+  height: 40px;
+}
+.accessoriesMobileChild4,
+.ellipseDiv {
+  position: absolute;
+  top: 523px;
+  left: 199px;
+  border-radius: 50%;
+  border: 1.4px solid var(--color-white);
+  box-sizing: border-box;
+  width: 54px;
+  height: 54px;
+}
+.accessoriesMobileChild4 {
+  top: 521px;
+  left: 284px;
+}
+.div2,
+.div3,
+.flyscreen,
+.frontRack {
+  position: absolute;
+  top: 580px;
+  left: 135px;
+  font-weight: 600;
+}
+.div2,
+.div3,
+.flyscreen {
+  left: 73px;
+}
+.div2,
+.div3 {
+  top: 592px;
+  left: 79px;
+  font-weight: 500;
+}
+.div3 {
+  left: 143px;
+}
+.accessoriesMobileChild5 {
+  position: absolute;
+  top: 633px;
+  left: 199px;
+  border-radius: var(--br-61xl);
+  background-color: var(--color-white);
+  width: 77px;
+  height: 3px;
+}
+.accessoriesMobile {
+  position: relative;
+  background-color: var(--color-coral);
+  width: 100%;
+  height: 640px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
